@@ -1,2 +1,2 @@
 # Iternity-Foundation
-This is my first github repositpry
+This is my first github repository
